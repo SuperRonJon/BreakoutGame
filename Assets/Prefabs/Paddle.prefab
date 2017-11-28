@@ -222,7 +222,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paddleSpeed: 0.15
-  paddleStrength: 500
+  paddleStrength: 100
   ballRB: {fileID: 54039440756477332}
 --- !u!135 &135818890020318694
 SphereCollider:
